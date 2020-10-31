@@ -53,6 +53,7 @@ header nav a:hover{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+    
 }
 
 .filme-principal .descricao{
@@ -77,6 +78,8 @@ header nav a:hover{
 
     cursor: pointer;
     transition: .5s ease all;
+
+    margin-bottom: 15px;
 }
 
 .botao:hover{
